@@ -13,6 +13,7 @@ obj/
 *.user
 *.vspscc
 *.vssscc
+*.vsidx
 *_i.c
 *_p.c
 *.ncb
